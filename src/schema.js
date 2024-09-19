@@ -89,6 +89,7 @@ function generateFieldValidatorSchema(field, opts) {
 		"set",
 		"get",
 		"validate",
+		"allowNull",
 		"default"
 	]);
 
